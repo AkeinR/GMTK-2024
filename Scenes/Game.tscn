@@ -506,6 +506,7 @@ layer_0/tile_data = PackedInt32Array(-196615, 65537, 1, -196614, 65537, 1, -1966
 script = ExtResource("2_4wsmh")
 
 [node name="Camera2D" type="Camera2D" parent="."]
+position = Vector2(2.08165e-12, 2.08165e-12)
 zoom = Vector2(4, 4)
 limit_top = -79
 script = ExtResource("3_nj2d5")
